@@ -6417,6 +6417,8 @@ OLAHRAGA POPULER 2
 #EXTINF:-1 group-logo="https://i.imgur.com/1vqowr7.png",OLAHRAGA POPULER 2
 
 
+#EXTINF:-1 cuid="1468" tvg-name="NBC Sports 🇺🇸" tvg-id="6549306c83595c000815a696" tvg-logo="https://i.imgur.com/1vqowr7.png" group-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",NBC Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",SkySportCalcio
 https://wahyu1ptv.pages.dev/SkySportCalcio-HD.m3u8
